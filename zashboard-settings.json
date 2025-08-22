@@ -6,5 +6,6 @@
   "config/group-proxies-by-provider": "true",
   "config/ipv6-test": true,
   "config/proxy-sort-type": "latencyasc",
-  "config/speedtest-url": "https://cp.cloudflare.com"
+  "config/speedtest-url": "https://cp.cloudflare.com",
+  "config/truncate-proxy-name": false
 }
